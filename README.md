@@ -15,3 +15,7 @@
 14. Question Answering
 15. Summarization
 16. Speech Recognition
+
+# Blogs on NLP
+1. Methods to compress large pre-trained models: https://blog.rasa.com/compressing-bert-for-faster-prediction-2/
+2. Compressing BERT with knowledge distillation: https://medium.com/huggingface/distilbert-8cf3380435b5
